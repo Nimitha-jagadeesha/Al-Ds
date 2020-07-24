@@ -19,9 +19,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body >
+  <body>
 
-    <header role="banner"class="page-header">
+    <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
@@ -30,11 +30,10 @@
       {{ content }}
 
     </main>
-   <div id="footer_wrap" class="outer">
-      <footer class="inner ">
-        <p style="font-size: 11px;">
-            <a style="color:white;text-decoration: none;" href="{{ '/editor.html' | relative_url }}">Markdown editor</a>
-        </p>
-      </footer>
+    <header class="page-header" role="banner">
+      <p style="font-size: 11px;">
+        <a style="text-decoration: none;" href="{{ 'editor.html' | relative_url }}">Markdown editor</a>
+    </p>
+    </header>
   </body>
 </html>
