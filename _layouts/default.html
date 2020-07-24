@@ -29,10 +29,11 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <header class="page-header" role="banner">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      </header>
     </main>
+    <header class="page-header" role="banner">
+      <p style="font-size: 11px;">
+        <a style="text-decoration: none;" href="{{ '/editor.html' | relative_url }}">Markdown editor</a>
+    </p>
+    </header>
   </body>
 </html>
