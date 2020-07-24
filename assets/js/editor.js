@@ -4,7 +4,7 @@ function compile() {
 
     if (markdown.value === "") {
         preview.innerHTML = '<p style="color: grey;">Preview</p>'; 
-        return ;
+        return;
     }
 
     preview.innerHTML = marked(markdown.value);
