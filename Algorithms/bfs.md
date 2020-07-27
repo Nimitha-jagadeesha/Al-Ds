@@ -52,4 +52,5 @@ int main()
      }
 }
 ~~~
-* Time Complexity is $O(|E|)$ |E| represents number of edges.
+
+* Time Complexity : $O$ $(E)$ where E represents number of edges
