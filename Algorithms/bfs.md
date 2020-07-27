@@ -53,4 +53,4 @@ int main()
 }
 
 ~~~
-* Time Complexity : $O$ $(E)$  where E represents number of edges
+* Time Complexity : **O(E)**  where **E** represents number of edges
