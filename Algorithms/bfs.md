@@ -51,6 +51,6 @@ int main()
         cout<<u<<" ";
      }
 }
-~~~
 
-* Time Complexity : $O$ $(E)$ where E represents number of edges
+~~~
+* Time Complexity : $O$ $(E)$  where E represents number of edges
