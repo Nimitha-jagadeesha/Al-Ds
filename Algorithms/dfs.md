@@ -69,4 +69,4 @@ int main()
 }
 
 ~~~
-* Time Complexity : **O(E)**  where **E** represents number of edges
+* Time Complexity : **O(V+E)**  where **V** is the number of vertexes and **E** is the number of edges.
