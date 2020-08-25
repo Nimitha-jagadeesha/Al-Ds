@@ -12,4 +12,7 @@ layout: default
 - [Binary exponention](.Algorithms/binaryexponention.html)
 - [DFS](./Algorithms/dfs.html)
 - [LCS(Longest common subsequence)](./Algorithms/lcs.html)
+- [SieveOfEratosthenes](./Algorithms/SieveOfEratosthenes.html)
+
+
 * * *
