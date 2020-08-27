@@ -2,14 +2,14 @@
 
 layout: default-algo
 title: Algorithms.
-problem: LCS(Longest common sunsequence)
+problem: LCS(Longest common subsequence)
 
 ---
 
 # Problem
 
 
-* LCS(Longest common sunsequence):
+* LCS(Longest common subsequence):
 
 # Implementation
 

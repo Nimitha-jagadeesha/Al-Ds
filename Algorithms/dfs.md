@@ -32,6 +32,7 @@ void dfs(int source)
     while(!q.empty())
     {
         source = q.front() ;
+        cout<<source<<"";
         q.pop();
 
         for(int i=0; i<adj[source].size() ;i++)      

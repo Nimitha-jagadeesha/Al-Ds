@@ -13,6 +13,6 @@ layout: default
 - [DFS](./Algorithms/dfs.html)
 - [LCS(Longest common subsequence)](./Algorithms/lcs.html)
 - [SieveOfEratosthenes](./Algorithms/SieveOfEratosthenes.html)
-
+- [BinaryGCD](./Algorithms/binarygcd.html)
 
 * * *
