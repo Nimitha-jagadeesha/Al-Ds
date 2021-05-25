@@ -14,5 +14,6 @@ layout: default
 - [LCS(Longest common subsequence)](./Algorithms/lcs.html)
 - [SieveOfEratosthenes](./Algorithms/SieveOfEratosthenes.html)
 - [BinaryGCD](./Algorithms/binarygcd.html)
+- [Quick Sort](./Algorithms/quicksort.html)
 
 * * *
